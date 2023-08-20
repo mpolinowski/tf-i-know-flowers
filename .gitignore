@@ -1,0 +1,11 @@
+saved_weights
+tfrecords
+dataset
+best_weights
+saved_model
+.ipynb_checkpoints
+variables
+fingerprint.pb
+keras_metadata.pb
+saved_model.pb
+bak
