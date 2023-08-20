@@ -3,16 +3,16 @@
 ## Model Training
 
 * [Evaluation Overview](/notebooks/)
-  * [EfficientNetV2B0]()
-  * [EfficientNetV2S]()
-  * [Xception]()
-  * [InceptionV3]()
-  * [NASNetMobile]()
-  * [MobileNetV3Small]()
-  * [MobileNetV3Large]()
-  * [MobileNetV2]()
-  * [vit-base-patch16-224]()
-  * [DeiT]()
+  * [EfficientNetV2B0](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-04-tensorflow-i-know-flowers-efficientnetv2b0/2023-08-04)
+  * [EfficientNetV2S](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-05-tensorflow-i-know-flowers-efficientnetv2s/2023-08-05)
+  * [Xception](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-12-tensorflow-i-know-flowers-xception/2023-08-12)
+  * [InceptionV3](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-06-tensorflow-i-know-flowers-inceptionv3/2023-08-06)
+  * [NASNetMobile](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-10-tensorflow-i-know-flowers-nasnetmobile/2023-08-10)
+  * [MobileNetV3Small](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-09-tensorflow-i-know-flowers-mobilenetv3small/2023-08-09)
+  * [MobileNetV3Large](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-08-tensorflow-i-know-flowers-mobilenetv3large/2023-08-08)
+  * [MobileNetV2](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-07-tensorflow-i-know-flowers-mobilenetv2/2023-08-07)
+  * [vit-base-patch16-224](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-11-tensorflow-i-know-flowers-vit/2023-08-11)
+  * [DeiT](https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-08-03-tensorflow-i-know-flowers-deit/2023-08-03)
 
 
 ![Tf Image Classifier](./notebooks/assets/Model_Eval_04.webp)
